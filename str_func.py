@@ -22,5 +22,7 @@ def capital_letters(s):
     return ' '.join(words)
 
 
+
 s = 'привет, мир! как дела? что нового?'
 print(capital_letters(s))
+
